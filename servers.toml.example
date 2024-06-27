@@ -1,0 +1,3 @@
+[servers]
+"pv-test-domain1.com" = "localhost:25565"
+# "pv-test-domain2.com" = "localhost:25566"
